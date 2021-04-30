@@ -6,6 +6,7 @@ name: 'Sathish G'
 subtitle: 'RVS College of Arts and Science'
 github:
   is_project_page: false
+layout: default
 comments: true
 disqus:
     shortname: tcs-nqt-2021
