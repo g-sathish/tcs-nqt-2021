@@ -1,38 +1,71 @@
+# TCS NQT 2021 Test
+- [TCS NQT 2021 Test](#tcs-nqt-2021-test)
+  - [Pattern of the Test](#pattern-of-the-test)
+  - [Section: Programming Logic](#section-programming-logic)
+  - [Coding Questions [Download ipynb]()](#coding-questions-download-ipynb)
+  - [Programming Logic Questions [pdf]()](#programming-logic-questions-pdf)
+  - [Mock Test](#mock-test)
 
-## Welcome to GitHub Pages
+## Pattern of the Test
 
-You can use the [editor on GitHub](https://github.com/g-sathish/tcs-nqt-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+| Section           | Questions    | Time    |
+|-------------------|--------------|---------|
+| Programming Logic | 10 Questions | 15 Mins |
+| Hands-On Coding   | 1 Question   | 15 Mins |
+| Hands-On Coding   | 1 Questions  | 30 Mins |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Section: Programming Logic
 
-### Markdown
+- Operators
+- Looping Statements
+- Control Statements
+- Arrays
+- Strings
+- Functions
+- Object-Oriented Programming (OOPS)
+  - Procedural Vs OOPs
+  - Classes and Objects
+  - Inheritance
+  - Abstraction
+  - Encapsulation
+  - Virtual and Pure Virtual
+  - Constructor and Destructor
+  - Polymorphism
+- Data Structures:
+  - Linked List
+  - Stack
+  - Queue
+  - Trees and Graphs
+  - Searching
+  - Sorting
+  - Hashing
+- Recursion
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Coding Questions [Download ipynb]()
 
-```markdown
-Syntax highlighted code block
+- Adding One
+  - Problem Statement [pdf]()
+  - Algorithm [pdf]()
+  - Solution [pdf]()
+- Maximum Occuring Character
+  - Problem Statement [pdf]()
+  - Algorithm [pdf]()
+  - Solution [pdf]()
 
-# Header 1
-## Header 2
-### Header 3
+## Programming Logic Questions [pdf]()
 
-- Bulleted
-- List
+The most important frequently asked type questions.
+- Question 1 [ideone]()
+- Question 2 [ideone]()
+- Question 3 [ideone]()
+- Question 4 [ideone]()
+- Question 5 [ideone]()
+- Question 6 [ideone]()
+- Question 7 [ideone]()
+- Question 8 [ideone]()
+- Question 9 [ideone]()
+- Question 10 [ideone]()
 
-1. Numbered
-2. List
+## Mock Test
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/g-sathish/tcs-nqt-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Take the Mock Test]()
