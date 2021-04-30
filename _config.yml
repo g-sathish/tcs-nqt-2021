@@ -8,5 +8,4 @@ github:
   is_project_page: false
 layout: default
 comments: true
-disqus:
-    shortname: tcs-nqt-2021
+disqus_shortname: tcs-nqt-2021
