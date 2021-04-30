@@ -62,20 +62,23 @@ After the meeting was over, Click [here](https://us02web.zoom.us/rec/share/u9kM7
 
 ## Coding Questions
 
-Download the Jupyter notebook to follow along from [here](https://github.com/g-sathish/tcs-nqt-2021/blob/main/tcs.ipynb)
+Download the Jupyter notebook to follow along from [here](https://github.com/g-sathish/tcs-nqt-2021/raw/main/tcs.ipynb)
 
 - Adding One
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/1-problem-statement.pdf)
   - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/1-algorithm.pdf)
-  - Solution [pdf]()
+  - Solution [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/1-solution.pdf)
 - Maximum Occuring Character
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/2-problem-statement.pdf)
   - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/2-algorithm.pdf)
-  - Solution [pdf]()
+  - Solution [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/2-solution.pdf)
+    - C++ Implementation [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/2-solution-cpp.pdf) [ideone it!](https://ideone.com/gPYl76)
 - Number of Unique Paths
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-problem-statement.pdf)
   - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-algorithm.pdf)
   - Solution [pdf]()
+
+You can also download the above 3 problems solved Python Jupyter Notebook from [here](https://github.com/g-sathish/tcs-nqt-2021/blob/main/tcs-solved.ipynb)
 
 ## Programming Logic Questions
 
