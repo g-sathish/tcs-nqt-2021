@@ -23,7 +23,7 @@ Passcode: 0bGZH9
 
 ## Meeting Recording Details
 
-After the meeting was over, Click [here]() to view the meeting recording. Meeting recording will be updated within 2 hours post the meeting.
+After the meeting was over, Click [here](https://us02web.zoom.us/rec/share/u9kM7uKWrv2mqdMfAWwetDiariG0VWfgXYcQv-Y2Owby-z3gHhIBwVRNT0s1WOzG.jmO2tYxv76-Fb7Lt?startTime=1619758094000) to view the meeting recording. Meeting recording will be updated within 2 hours post the meeting.
 
 ## Pattern of the Test
 
@@ -62,7 +62,7 @@ After the meeting was over, Click [here]() to view the meeting recording. Meetin
 
 ## Coding Questions
 
-Download the Jupyter notebook to follow along from [here](https://github.com/g-sathish/tcs-nqt-2021/raw/main/tcs.ipynb)
+Download the Jupyter notebook to follow along from [here](https://github.com/g-sathish/tcs-nqt-2021/blob/main/tcs.ipynb)
 
 - Adding One
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/1-problem-statement.pdf)
