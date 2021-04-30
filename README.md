@@ -10,16 +10,16 @@
 
 ## Meeting Details
 
-```
+
 Topic: TCS NQT 2021 Training
 Time: Apr 30, 2021 10:00 AM Mumbai, Kolkata, New Delhi
 
 Join Zoom Meeting
-https://us02web.zoom.us/j/88477830629?pwd=NHFpRkJvZW4ydjBXczhFWjJ1UjNkZz09
+[https://us02web.zoom.us/j/88477830629?pwd=NHFpRkJvZW4ydjBXczhFWjJ1UjNkZz09](https://us02web.zoom.us/j/88477830629?pwd=NHFpRkJvZW4ydjBXczhFWjJ1UjNkZz09)
 
 Meeting ID: 884 7783 0629
 Passcode: 0bGZH9
-```
+
 
 ## Meeting Recording Details
 
