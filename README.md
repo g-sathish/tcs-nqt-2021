@@ -2,8 +2,8 @@
 - [TCS NQT 2021 Test](#tcs-nqt-2021-test)
   - [Pattern of the Test](#pattern-of-the-test)
   - [Section: Programming Logic](#section-programming-logic)
-  - [Coding Questions [Download ipynb]()](#coding-questions-download-ipynb)
-  - [Programming Logic Questions [pdf]()](#programming-logic-questions-pdf)
+  - [Coding Questions](#coding-questions)
+  - [Programming Logic Questions](#programming-logic-questions)
   - [Mock Test](#mock-test)
 
 ## Pattern of the Test
