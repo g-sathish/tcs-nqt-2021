@@ -43,6 +43,8 @@
 
 ## Coding Questions
 
+Download the Jupyter notebook to follow along from [here](https://github.com/g-sathish/tcs-nqt-2021/raw/main/tcs.ipynb)
+
 - Adding One
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/1-problem-statement.pdf)
   - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/1-algorithm.pdf)
@@ -59,16 +61,28 @@
 ## Programming Logic Questions
 
 The most important frequently asked type questions.
-- Question 1 [ideone]()
-- Question 2 [ideone]()
-- Question 3 [ideone]()
-- Question 4 [ideone]()
-- Question 5 [ideone]()
-- Question 6 [ideone]()
-- Question 7 [ideone]()
-- Question 8 [ideone]()
-- Question 9 [ideone]()
-- Question 10 [ideone]()
+
+- Question 1 [ideone it!](https://ideone.com/BpowBP)
+- Question 2 [ideone it!](https://ideone.com/bgjkgj)
+- Question 3 [ideone it!](https://ideone.com/akgfAD)
+- Question 4 [ideone it!](https://ideone.com/m3VyGr)
+- Question 5 [ideone it!](https://ideone.com/jI5Lsg)
+- Question 6 [ideone it!](https://ideone.com/UpAj0d)
+- Question 7 [ideone it!](https://ideone.com/M9wdsu)
+- Question 8 [ideone it!](https://ideone.com/QgqwoJ)
+- Question 9 [ideone it!](https://ideone.com/BFRLVD)
+- Question 10 [ideone it!](https://ideone.com/uA1TjP)
+- Question 11 [ideone it!](https://ideone.com/kigat2)
+- Question 12 [ideone it!](https://ideone.com/fCjiE5)
+- Question 13 [ideone it!](https://ideone.com/8zGw6y)
+- Question 14 [ideone it!](https://ideone.com/IjPLz7)
+- Question 15 [ideone it!](https://ideone.com/jeaOIq)
+- Question 16 [ideone it!](https://ideone.com/9uPpnf)
+- Question 17 [ideone it!](https://ideone.com/woEPD9)
+- Question 18 [ideone it!](https://ideone.com/9RHcpC)
+- Question 19 [ideone it!](https://ideone.com/B0lUez)
+
+Download all the questions from [here](https://github.com/g-sathish/tcs-nqt-2021/blob/main/mcqs.pdf)
 
 ## Mock Test
 
