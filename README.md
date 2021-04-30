@@ -109,3 +109,11 @@ Download all the questions from [here](https://github.com/g-sathish/tcs-nqt-2021
 ## Mock Test
 
 - [Take the Mock Test](https://hr.gs/rvscas-tcs-nqt-2021)
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/g-sathish/tcs-nqt-2021"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
