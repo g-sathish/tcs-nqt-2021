@@ -44,12 +44,12 @@
 ## Coding Questions
 
 - Adding One
-  - Problem Statement [pdf]()
-  - Algorithm [pdf]()
+  - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/raw/main/1-problem-statement.pdf)
+  - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/raw/main/1-algorithm.pdf)
   - Solution [pdf]()
 - Maximum Occuring Character
-  - Problem Statement [pdf]()
-  - Algorithm [pdf]()
+  - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/raw/main/2-problem-statement.pdf)
+  - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/raw/main/2-algorithm.pdf)
   - Solution [pdf]()
 
 ## Programming Logic Questions
