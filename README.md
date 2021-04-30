@@ -41,7 +41,7 @@
   - Hashing
 - Recursion
 
-## Coding Questions [Download ipynb]()
+## Coding Questions
 
 - Adding One
   - Problem Statement [pdf]()
@@ -52,7 +52,7 @@
   - Algorithm [pdf]()
   - Solution [pdf]()
 
-## Programming Logic Questions [pdf]()
+## Programming Logic Questions
 
 The most important frequently asked type questions.
 - Question 1 [ideone]()
