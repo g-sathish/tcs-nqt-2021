@@ -1,6 +1,7 @@
 # TCS NQT 2021 Test
 - [TCS NQT 2021 Test](#tcs-nqt-2021-test)
   - [Meeting Details](#meeting-details)
+  - [Meeting Recording Details](#meeting-recording-details)
   - [Pattern of the Test](#pattern-of-the-test)
   - [Section: Programming Logic](#section-programming-logic)
   - [Coding Questions](#coding-questions)
@@ -19,6 +20,10 @@ https://us02web.zoom.us/j/88477830629?pwd=NHFpRkJvZW4ydjBXczhFWjJ1UjNkZz09
 Meeting ID: 884 7783 0629
 Passcode: 0bGZH9
 ```
+
+## Meeting Recording Details
+
+After the meeting was over, Click [here]() to view the meeting recording. Meeting recording will be updated within 2 hours post the meeting.
 
 ## Pattern of the Test
 
