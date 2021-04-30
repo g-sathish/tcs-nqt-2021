@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: TCS NQT Training
 description: Training page of TCS NQT - 2021 Test
 show_downloads: false
-name: 'Sathish G'
+author: 'Sathish G'
 subtitle: 'RVS College of Arts and Science'
 github:
   is_project_page: false
