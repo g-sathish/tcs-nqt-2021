@@ -11,13 +11,13 @@
 
 ## Schedule
 
-| Agenda                                              | Time               | Mode/Tool                                      |
-|-----------------------------------------------------|--------------------|------------------------------------------------|
-| Pattern discussion                                  | 10.00am to 10.30am | Zoom                                           |
-| How to use the Training page                        | 10.30am to 10.45am | Zoom https://g-sathish.github.io/tcs-nqt-2021/ |
-| Programming Logic Questions Discussion              | 10.45am to 11.15am | Ideone It!                                     |
-| Coding Questions                                    | 11.15am to 12.15pm | Jupyter Notebook Python3                       |
-| More Programming Logic Questions & Coding Questions | 12.15pm to 1.00pm  | Ideone It! and Jupyter Notebook                |
+| Agenda                                              	| Time               	| Mode/Tool                                            	|
+|-----------------------------------------------------	|--------------------	|------------------------------------------------------	|
+| Pattern discussion                                  	| 10.00am to 10.30am 	| Zoom                                                 	|
+| How to use the Training page                        	| 10.30am to 10.45am 	| Zoom   <br>https://g-sathish.github.io/tcs-nqt-2021/ 	|
+| Programming Logic Questions Discussion              	| 10.45am to 11.15am 	| Ideone It!                                           	|
+| Coding Questions                                    	| 11.15am to 12.15pm 	| Jupyter Notebook<br>Python3                          	|
+| More Programming Logic Questions & Coding Questions 	| 12.15pm to 1.00pm  	| Ideone It! and Jupyter Notebook                      	|
 
 ## Meeting Details
 
