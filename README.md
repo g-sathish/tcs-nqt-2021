@@ -51,6 +51,10 @@
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/raw/main/2-problem-statement.pdf)
   - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/raw/main/2-algorithm.pdf)
   - Solution [pdf]()
+- Number of Unique Paths
+  - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-problem-statement.pdf)
+  - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-algorithm.pdf)
+  - Solution [pdf]()
 
 ## Programming Logic Questions
 
