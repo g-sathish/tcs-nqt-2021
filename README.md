@@ -1,10 +1,24 @@
 # TCS NQT 2021 Test
 - [TCS NQT 2021 Test](#tcs-nqt-2021-test)
+  - [Meeting Details](#meeting-details)
   - [Pattern of the Test](#pattern-of-the-test)
   - [Section: Programming Logic](#section-programming-logic)
   - [Coding Questions](#coding-questions)
   - [Programming Logic Questions](#programming-logic-questions)
   - [Mock Test](#mock-test)
+
+## Meeting Details
+
+```
+Topic: TCS NQT 2021 Training
+Time: Apr 30, 2021 10:00 AM Mumbai, Kolkata, New Delhi
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/88477830629?pwd=NHFpRkJvZW4ydjBXczhFWjJ1UjNkZz09
+
+Meeting ID: 884 7783 0629
+Passcode: 0bGZH9
+```
 
 ## Pattern of the Test
 
