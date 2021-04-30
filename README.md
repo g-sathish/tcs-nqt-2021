@@ -109,3 +109,7 @@ Download all the questions from [here](https://github.com/g-sathish/tcs-nqt-2021
 ## Mock Test
 
 - [Take the Mock Test](https://hr.gs/rvscas-tcs-nqt-2021)
+
+{% if site.disqus_shortname %}
+  {% include disqus.html %}
+{% endif %}
