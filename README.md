@@ -1,5 +1,6 @@
 # TCS NQT 2021 Test
 - [TCS NQT 2021 Test](#tcs-nqt-2021-test)
+  - [Schedule](#schedule)
   - [Meeting Details](#meeting-details)
   - [Meeting Recording Details](#meeting-recording-details)
   - [Pattern of the Test](#pattern-of-the-test)
@@ -7,6 +8,16 @@
   - [Coding Questions](#coding-questions)
   - [Programming Logic Questions](#programming-logic-questions)
   - [Mock Test](#mock-test)
+
+## Schedule
+
+| Agenda                                              | Time               | Mode/Tool                                      |
+|-----------------------------------------------------|--------------------|------------------------------------------------|
+| Pattern discussion                                  | 10.00am to 10.30am | Zoom                                           |
+| How to use the Training page                        | 10.30am to 10.45am | Zoom https://g-sathish.github.io/tcs-nqt-2021/ |
+| Programming Logic Questions Discussion              | 10.45am to 11.15am | Ideone It!                                     |
+| Coding Questions                                    | 11.15am to 12.15pm | Jupyter Notebook Python3                       |
+| More Programming Logic Questions & Coding Questions | 12.15pm to 1.00pm  | Ideone It! and Jupyter Notebook                |
 
 ## Meeting Details
 
@@ -76,7 +87,7 @@ Download the Jupyter notebook to follow along from [here](https://github.com/g-s
 - Number of Unique Paths
   - Problem Statement [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-problem-statement.pdf)
   - Algorithm [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-algorithm.pdf)
-  - Solution [pdf]()
+  - Solution [pdf](https://github.com/g-sathish/tcs-nqt-2021/blob/main/3-solution.pdf)
 
 You can also download the above 3 problems solved Python Jupyter Notebook from [here](https://github.com/g-sathish/tcs-nqt-2021/blob/main/tcs-solved.ipynb)
 
